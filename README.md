@@ -57,20 +57,8 @@ measure team impact, not individual glory.
 
 ---
 
-## 🛠️ How to Run
-```bash
-git clone https://github.com/YOUR_USERNAME/NBA-MVP-Prediction.git
-cd NBA-MVP-Prediction
-pip install -r requirements.txt
-jupyter notebook notebooks/nba_mvp_prediction.ipynb
-```
-
----
 
 ## 👤 Author
 **Kelvin Attoh**
-📍 Johnson City, TN
-🎯 Aspiring NBA Data Scientist
-🐂 Chicago Bulls Fan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-attoh3/)
